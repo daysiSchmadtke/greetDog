@@ -1,2 +1,2 @@
-# greetDog
-A small app that toggles images using js
+# greetLily
+A small app that toggles two images using js
